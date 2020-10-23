@@ -10,9 +10,17 @@ const objectsSort = require('objects-sort');
 cost data = [1, 2, 3, 4];
 objectsSort({
     data: data,
-    sortDirection: 'ASC',
-    parseValue: []
+    sortDirection: 'ASC'
 })
 
 
 ```
+
+#### options
+
+data : array of object 
+examples  
+[1,2,3]
+['a', 'b', 'c']
+[{}, {}, {}]
+sortDirection: 'ASC' | 'DESC'
