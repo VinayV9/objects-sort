@@ -2,7 +2,7 @@
   "name": "objects-sort",
   "version": "1.0.0",
   "description": "Sort array of objects, multi sorting, sort objects by path, deep object sorting",
-  "repository": "https://github.com/",
+  "repository": "https://github.com/VinayV9/objects-sort",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

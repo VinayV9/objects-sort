@@ -1,5 +1,18 @@
 # objects-sort
 
 ```js
-const objectSort = require('objects-sort');
+const objectsSort = require('objects-sort');
+```
+
+### Examples
+
+```js
+cost data = [1, 2, 3, 4];
+objectsSort({
+    data: data,
+    sortDirection: 'ASC',
+    parseValue: []
+})
+
+
 ```
